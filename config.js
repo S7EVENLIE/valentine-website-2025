@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Felicia",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dg7yq9cqg/video/upload/v1771047926/%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E6%B5%B7%E7%81%A3-_%E8%8F%B2%E9%81%93%E5%B0%94_Cover_%E8%94%A1%E6%81%A9%E9%9B%A8_Priscilla_Abby_-_Priscilla_Abby_%E8%94%A1%E6%81%A9%E9%9B%A8_youtube_ale4e9.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
